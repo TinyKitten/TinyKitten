@@ -1,4 +1,4 @@
-### Hi there 👋I'm freelance frontend engineer named TinyKitten.😺
+### Hi there 👋 I'm freelance frontend engineer named TinyKitten.😺
 
 I am a freelance front-end engineer. But I can also do the backend. Mainly we are developing TrainLCD, a smartphone app that reproduces Japanese trains.
 
