@@ -27,6 +27,7 @@ In addition, I am making a A easy to use/deploy notebook system called "NoteNote
 - UI/UX Design
 
 📔 Main Project
-[TrainLCD](https://github.com/TinyKitten/TrainLCD)
-[StationAPI](https://github.com/TinyKitten/StationAPI)
-[NoteNote](https://github.com/TeamKitten/NoteNote)
+
+- [TrainLCD](https://github.com/TinyKitten/TrainLCD)
+- [StationAPI](https://github.com/TinyKitten/StationAPI)
+- [NoteNote](https://github.com/TeamKitten/NoteNote)
