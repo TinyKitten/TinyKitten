@@ -6,7 +6,7 @@ In addition, I am making a A easy to use/deploy notebook system called "NoteNote
 
 🏫 Final Education
 
-- [Gunma Prefecture Seiryo High School](http://www.seiryo-hs.gsn.ed.jp/)
+- [Maebashi Seiryo High School](http://www.seiryo-hs.gsn.ed.jp/)
 
 🧑‍💻 Work
 
