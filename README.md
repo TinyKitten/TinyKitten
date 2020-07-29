@@ -34,4 +34,4 @@ In addition, I am making a A easy to use/deploy notebook system called "NoteNote
 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TinyKitten&count_private=true&show_icons=true">
-<img width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyKitten&layout=compact">
+<img width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyKitten&layout=compact&hide=TSQL">
