@@ -13,6 +13,7 @@ In addition, I am making a A easy to use/deploy notebook system called "NoteNote
 - Freelance Frontend Engineer
   - Healthcare IoT service(Angular, React, Rails)
   - Fanclub native app(React Native, Firebase)
+  - Native app for Generation Z(React Native, AWS)
 
 👨‍👧‍👦 Belongs
 
