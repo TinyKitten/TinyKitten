@@ -17,7 +17,6 @@ In addition, I am making a A easy to use/deploy notebook system called "NoteNote
 👨‍👧‍👦 Belongs
 
 - [TeamKitten](https://teamkitten.tk/)(Leader)
-- Giften(Moderator)
 
 💘 Interests
 
