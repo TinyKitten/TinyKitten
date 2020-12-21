@@ -24,7 +24,6 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
 
 - [TrainLCD](https://github.com/TinyKitten/TrainLCD)
 - [StationAPI](https://github.com/TinyKitten/StationAPI)
-- [NoteNote](https://github.com/TeamKitten/NoteNote)
 
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TinyKitten&count_private=true&show_icons=true">
