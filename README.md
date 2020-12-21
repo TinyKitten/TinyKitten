@@ -11,7 +11,7 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
 - Freelance Frontend Engineer
   - Healthcare IoT service(Angular, React, Rails)
   - Fanclub native app(React Native, Firebase)
-  - Native app for Generation Z(React Native, AWS)
+  - Native journal app for Generation Z(React Native, AWS)
 
 💘 Interests
 
