@@ -1,4 +1,4 @@
-### Hi there 👋 I'm freelance frontend engineer named TinyKitten.😺
+### Hi there 👋 I'm freelance frontend engineer named TinyKitten.🐈
 
 I am a freelance front-end engineer. But I can also do the backend. Mainly we are developing TrainLCD, a smartphone app that reproduces Japanese trains.
 
@@ -12,10 +12,11 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
   - Healthcare IoT service(Angular, React, Rails)
   - Fanclub native app(React Native, Firebase)
   - Native journal app for Generation Z(React Native, AWS)
+  - Web Application for Kindergarten/Nursery(React, AWS)
 
 💘 Interests
 
-- Cat😺
+- Cat🐈
 - Frontend/Backend development
 - Team management
 - UI/UX Design
