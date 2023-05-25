@@ -13,6 +13,7 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
   - Fanclub native app(React Native, Firebase)
   - Native journal app for Generation Z(React Native, AWS)
   - Web Application for Kindergarten/Nursery(React, AWS)
+  - Web Application for Reading comics(React, Rails)
 
 💘 Interests
 
