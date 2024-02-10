@@ -31,7 +31,8 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
 
 <img width="50%" src="https://github.com/TinyKitten/TinyKitten/assets/32848922/a866c3f6-3297-4e73-b7cb-5bc58078ada1">
 
-<hr>
+
+📈 Statistics
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TinyKitten&count_private=true&show_icons=true">
 <img width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyKitten&layout=compact&hide=TSQL">
