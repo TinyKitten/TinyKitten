@@ -13,7 +13,7 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
   - Web Application for Kindergarten/Nursery(React, AWS)
   - Web Application for Reading comics(React, Rails)
   - Web magazine frontend system for Fashion(React)
-  - Web Application for Dialogue(React, GCP)
+  - Web Application for dialogue(React, GCP)
 
 💘 Interests
 
@@ -28,8 +28,10 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
 - [StationAPI](https://github.com/TinyKitten/StationAPI)
 
 📛 Certificate of Encounter
-![catalog](https://github.com/TinyKitten/TinyKitten/assets/32848922/a866c3f6-3297-4e73-b7cb-5bc58078ada1)
 
+<img width="50%" src="https://github.com/TinyKitten/TinyKitten/assets/32848922/a866c3f6-3297-4e73-b7cb-5bc58078ada1">
+
+<hr>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TinyKitten&count_private=true&show_icons=true">
 <img width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyKitten&layout=compact&hide=TSQL">
