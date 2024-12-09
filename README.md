@@ -8,7 +8,7 @@ I am a freelance front-end engineer. But I can also do the backend. Mainly we ar
 
 🏫 Final Education
 
-- [Maebashi Seiryo High School](http://www.seiryo-hs.gsn.ed.jp/)
+- [Maebashi Seiryo High School](https://seiryo-hs.gsn.ed.jp/)
 
 🧑‍💻 Work
 
