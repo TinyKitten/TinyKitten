@@ -1,6 +1,6 @@
-### Hi there 👋 I'm freelance frontend engineer named TinyKitten.🐈
+### Hi there 👋 I'm Full-stack creator named TinyKitten.🐈
 
-I am a freelance front-end engineer. But I can also do the backend. Mainly we are developing TrainLCD, a smartphone app that reproduces Japanese trains.
+I am a Full-stack creator. But I can also do the backend. Mainly we are developing TrainLCD, a smartphone app that reproduces Japanese trains.
 
 📛 Certificate of Encounter
 
