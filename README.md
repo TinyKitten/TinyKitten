@@ -30,8 +30,3 @@ I am a Full-stack creator. But I can also do the backend. Mainly we are developi
 
 - [TrainLCD](https://github.com/TinyKitten/TrainLCD)
 - [StationAPI](https://github.com/TinyKitten/StationAPI)
-
-📈 Statistics
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=TinyKitten&count_private=true&show_icons=true">
-<img width="50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinyKitten&layout=compact&hide=TSQL">
